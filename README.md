@@ -1,5 +1,7 @@
 # minimal-haskell-cli
-This repository is a learning project focused on building a minimal command-line interface using Haskell. It aims to demonstrate the Haskell capabilities in CLI applications.
+
+## Overview
+This repository is a learning project focused on building a minimal command-line interface using Haskell, demonstrating its capabilities in CLI applications.
 
 ## Features
 - Basic CLI functionality
